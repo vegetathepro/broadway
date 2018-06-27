@@ -1,0 +1,41 @@
+body {
+  font-family: "Helvetica";
+  text-align: center;
+}
+.intro {
+  background-image: url(D:/projects/broadway/resources/images/the-flatiron-building.png);
+  text-align: center;
+  color: white;
+}
+h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+.intro h2 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+.process h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h1 {
+  font-size: 70px;
+}
+h3 {
+  font-size: 23px;
+}
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+.nav {
+  color: white;
+  font-weight: bold;
+}
